@@ -24,8 +24,7 @@ This week's project was to build a CMS-style blog, where developers can publish 
 1. After repository has been cloned, in the terminal, log in to MySQL by entering: mysql -u root -p and enter your password when prompted
 2. Using MySQL run the schema.sql by typing: source schema.sql. This will create the database needed for this application
 3. Quit MySQL by typing: \q
-4. Run seed by typing: npm run seed
-2. Start the app by running command: node server.js
+4. Start the app by running command: node server.js
 
 
 ## User Story (provided in the homework instructions)
@@ -88,6 +87,7 @@ Skills to be implemented on this project are:
 - Used git commands to add, commit, and push all changes on to GitHub repository
 
 ## View of deployed app
+![Screen Shot 2022-04-18 at 8 51 46 PM](https://user-images.githubusercontent.com/94095220/163916762-117f00f8-b545-4f62-8196-1f13a84ab185.png)
 
 
 
