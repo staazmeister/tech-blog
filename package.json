@@ -1,7 +1,7 @@
 {
   "name": "tech-blog",
   "version": "1.0.0",
-  "description": "",
+  "description": "Week 14 Homework This week's project was to build a CMS-style blog, where developers can publish their own post and comment on other's post as well. Objective is to follow the MVC paradigm, use Handlebars.js, Sequelize, and express-session npm package to autheticate.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
