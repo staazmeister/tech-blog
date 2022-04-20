@@ -3,6 +3,9 @@ Week 14 Homework
 This week's project was to build a CMS-style blog, where developers can publish their own post and comment on other's post as well. Objective is to follow the MVC paradigm, use Handlebars.js, Sequelize, and express-session npm package to autheticate.
 
 # Installation
+No installation required just click on the link: https://johill-techblog.herokuapp.com/login
+
+If you want to install your local machine, you can follow the steps below:
 1. Copy the clone link of the repository from GitHub
 2. Open Bash or Terminal Window
 3. When the console opens, navigate to the directory the repository will be added to
@@ -87,9 +90,8 @@ Skills to be implemented on this project are:
 - Used git commands to add, commit, and push all changes on to GitHub repository
 
 ## View of deployed app
-![Screen Shot 2022-04-18 at 8 51 46 PM](https://user-images.githubusercontent.com/94095220/163916762-117f00f8-b545-4f62-8196-1f13a84ab185.png)
 
-
+![Screen Shot 2022-04-19 at 6 20 11 PM](https://user-images.githubusercontent.com/94095220/164128038-dfa34e2d-8122-4531-a1c2-9b589f3917cc.png)
 
 
 ## Links to Application and GitHup Repository
